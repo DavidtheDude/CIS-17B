@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\confirm.o
+./release\afterloginmenu.o
+./release\forgot.o
+./release\newaccount.o
+./release\sha1.o
+./release\moc_mainwindow.o
+./release\moc_confirm.o
+./release\moc_afterloginmenu.o
+./release\moc_forgot.o
+./release\moc_newaccount.o
+./release\qrc_images.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\confirm.o
+./debug\afterloginmenu.o
+./debug\forgot.o
+./debug\newaccount.o
+./debug\sha1.o
+./debug\moc_mainwindow.o
+./debug\moc_confirm.o
+./debug\moc_afterloginmenu.o
+./debug\moc_forgot.o
+./debug\moc_newaccount.o
+./debug\qrc_images.o
+);
