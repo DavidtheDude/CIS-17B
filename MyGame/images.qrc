@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>splash.png</file>
+        <file>zakuthing_modified.png</file>
+        <file>wing_gundam_zero_modified.png</file>
+        <file>Skullgirls---LittleInnsmouth.jpg</file>
+        <file>Background.qml</file>
+        <file>Zero/dash.xml</file>
+        <file>Zero/mSlice.xml</file>
+        <file>Zero/run.xml</file>
+        <file>Zero/sclice.xml</file>
+    </qresource>
+</RCC>

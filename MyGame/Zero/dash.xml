@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xedithor's sprite file-->
+<!--last saved: 18/12/2011 17:34-->
+<sprites>
+    <image>
+        <path>C:/Users/David/Documents/School/CIS-17B/MyGame/Zero/zeroModified.png</path>
+    </image>
+    <modules nModules="3">
+        <nRow>0 1000 535 33 80 50 </nRow>
+        <nRow>0 1001 618 34 114 50 </nRow>
+        <nRow>0 1002 730 34 141 50 </nRow>
+    </modules>
+    <frames nFrames="3">
+        <itemFrame ID="3000" nModFrame="1" name="frame">
+            <RowModFrm>1000 0 -50 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3001" nModFrame="1" name="frame">
+            <RowModFrm>1001 0 -50 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3002" nModFrame="1" name="frame">
+            <RowModFrm>1002 0 -50 </RowModFrm>
+        </itemFrame>
+    </frames>
+    <anims nAnims="1">
+        <itemAnim ID="5000" nAnimFrame="3" name="anim">
+            <RowFrmAnim>3000 -35 -48 1 </RowFrmAnim>
+            <RowFrmAnim>3001 -50 -46 1 </RowFrmAnim>
+            <RowFrmAnim>3002 -76 -46 1 </RowFrmAnim>
+        </itemAnim>
+    </anims>
+</sprites>
