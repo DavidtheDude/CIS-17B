@@ -4,12 +4,13 @@
 #include <QTimer>
 #include <QTime>
 #include <QDesktopWidget>
+#include <battlearea.h>
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     MainWindow w;
-
+    /*
     QPixmap image(":/splash.png");
     QLabel* aWidget = new QLabel(0, Qt::FramelessWindowHint|Qt::WindowStaysOnTopHint);
     aWidget->setAttribute(Qt::WA_TranslucentBackground);
@@ -24,6 +25,10 @@ int main(int argc, char *argv[])
     aWidget->show();
     QTimer::singleShot(5000, aWidget,SLOT(close()));
     QTimer::singleShot(5000, &w,SLOT(show()));
+    */
+    BattleArea *k = new BattleArea;
+    k->Load();
+    k->show();
 
     //w.show();
 

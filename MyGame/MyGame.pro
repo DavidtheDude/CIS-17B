@@ -5,6 +5,7 @@
 #-------------------------------------------------
 
 QT       += core gui
+QT       +=xml
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -19,7 +20,8 @@ SOURCES += main.cpp\
 
 HEADERS  += mainwindow.h \
     settings.h \
-    battlearea.h
+    battlearea.h \
+    animation.h
 
 FORMS    += mainwindow.ui \
     settings.ui \
@@ -32,4 +34,6 @@ RESOURCES += \
     images.qrc
 
 CONFIG += release
+
+QMAKE_CXXFLAGS_WARN_OFF -= -Wunused-parameter
 
