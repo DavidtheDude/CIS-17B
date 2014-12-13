@@ -35,7 +35,6 @@ void MainWindow::on_Exit_clicked()
 void MainWindow::on_NewGame_clicked()
 {
     BattleArea *k = new BattleArea;
-    k->Load();
     k->show();
     this->close();
 }

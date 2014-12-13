@@ -20,8 +20,7 @@ SOURCES += main.cpp\
 
 HEADERS  += mainwindow.h \
     settings.h \
-    battlearea.h \
-    animation.h
+    battlearea.h
 
 FORMS    += mainwindow.ui \
     settings.ui \
@@ -31,9 +30,15 @@ OTHER_FILES += \
     config.txt
 
 RESOURCES += \
-    images.qrc
+    images.qrc \
+    xml.qrc
 
 CONFIG += release
 
 QMAKE_CXXFLAGS_WARN_OFF -= -Wunused-parameter
+
+QMAKE_CFLAGS_WARN_OFF += true
+
+QMAKE_CXXFLAGS_WARN_OFF += true
+
 

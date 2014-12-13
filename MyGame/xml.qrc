@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Zero/dash.xml</file>
+        <file>Zero/run.xml</file>
+        <file>Zero/slice.xml</file>
+        <file>Zero/sSlice.xml</file>
+        <file>Zero/files.xml</file>
+    </qresource>
+</RCC>

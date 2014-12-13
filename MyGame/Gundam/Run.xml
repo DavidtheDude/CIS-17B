@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xedithor's sprite file-->
+<!--last saved: 18/12/2011 17:34-->
+<sprites>
+    <image>
+        <path>:/Gundam/wing_gundam_zero_modified.png</path>
+    </image>
+    <modules nModules="11">
+        <nRow>0 1000 9 16 93 111 </nRow>
+        <nRow>0 1001 103 18 86 111 </nRow>
+        <nRow>0 1003 189 15 86 111 </nRow>
+        <nRow>0 1004 276 14 86 111 </nRow>
+        <nRow>0 1005 361 10 99 117 </nRow>
+        <nRow>0 1006 461 9 96 109 </nRow>
+        <nRow>0 1007 556 19 79 105 </nRow>
+        <nRow>0 1008 634 15 79 105 </nRow>
+        <nRow>0 1009 711 20 79 105 </nRow>
+        <nRow>0 1010 790 18 99 105 </nRow>
+        <nRow>0 1011 2 145 84 103 </nRow>
+    </modules>
+    <frames nFrames="10">
+        <itemFrame ID="3000" nModFrame="1" name="frame">
+            <RowModFrm>1000 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3001" nModFrame="1" name="frame">
+            <RowModFrm>1001 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3002" nModFrame="1" name="frame">
+            <RowModFrm>1003 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3003" nModFrame="1" name="frame">
+            <RowModFrm>1004 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3004" nModFrame="1" name="frame">
+            <RowModFrm>1005 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3005" nModFrame="1" name="frame">
+            <RowModFrm>1007 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3006" nModFrame="1" name="frame">
+            <RowModFrm>1008 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3007" nModFrame="1" name="frame">
+            <RowModFrm>1009 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3008" nModFrame="1" name="frame">
+            <RowModFrm>1010 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3009" nModFrame="1" name="frame">
+            <RowModFrm>1011 0 0 </RowModFrm>
+        </itemFrame>
+    </frames>
+    <anims nAnims="1">
+        <itemAnim ID="5000" nAnimFrame="10" name="anim">
+            <RowFrmAnim>3000 -12 -108 1 </RowFrmAnim>
+            <RowFrmAnim>3001 -3 -106 1 </RowFrmAnim>
+            <RowFrmAnim>3002 -4 -109 1 </RowFrmAnim>
+            <RowFrmAnim>3003 -9 -106 1 </RowFrmAnim>
+            <RowFrmAnim>3004 -25 -114 1 </RowFrmAnim>
+            <RowFrmAnim>3005 -18 -105 1 </RowFrmAnim>
+            <RowFrmAnim>3006 -14 -105 1 </RowFrmAnim>
+            <RowFrmAnim>3007 -15 -97 1 </RowFrmAnim>
+            <RowFrmAnim>3008 -32 -104 1 </RowFrmAnim>
+            <RowFrmAnim>3009 -22 -106 1 </RowFrmAnim>
+        </itemAnim>
+    </anims>
+</sprites>

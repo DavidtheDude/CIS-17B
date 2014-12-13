@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xedithor's sprite file-->
+<!--last saved: 18/12/2011 17:34-->
+<sprites>
+    <image>
+        <path>:/Zero/zeroModified.png</path>
+    </image>
+    <modules nModules="12">
+        <nRow>0 1000 4 229 43 52 </nRow>
+        <nRow>0 1001 51 226 47 52 </nRow>
+        <nRow>0 1002 99 213 54 66 </nRow>
+        <nRow>0 1003 155 212 83 71 </nRow>
+        <nRow>0 1004 240 214 92 62 </nRow>
+        <nRow>0 1005 336 215 92 62 </nRow>
+        <nRow>0 1006 429 224 92 54 </nRow>
+        <nRow>0 1007 523 226 75 54 </nRow>
+        <nRow>0 1008 602 224 64 54 </nRow>
+        <nRow>0 1009 670 226 57 50 </nRow>
+        <nRow>0 1010 731 226 57 50 </nRow>
+        <nRow>0 1011 799 226 57 50 </nRow>
+    </modules>
+    <frames nFrames="12">
+        <itemFrame ID="3000" nModFrame="1" name="frame">
+            <RowModFrm>1000 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3001" nModFrame="1" name="frame">
+            <RowModFrm>1001 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3002" nModFrame="1" name="frame">
+            <RowModFrm>1002 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3003" nModFrame="1" name="frame">
+            <RowModFrm>1003 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3004" nModFrame="1" name="frame">
+            <RowModFrm>1004 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3005" nModFrame="1" name="frame">
+            <RowModFrm>1005 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3006" nModFrame="1" name="frame">
+            <RowModFrm>1006 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3007" nModFrame="1" name="frame">
+            <RowModFrm>1007 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3008" nModFrame="1" name="frame">
+            <RowModFrm>1008 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3009" nModFrame="1" name="frame">
+            <RowModFrm>1009 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3010" nModFrame="1" name="frame">
+            <RowModFrm>1010 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3011" nModFrame="1" name="frame">
+            <RowModFrm>1011 0 0 </RowModFrm>
+        </itemFrame>
+    </frames>
+    <anims nAnims="1">
+        <itemAnim ID="5000" nAnimFrame="12" name="anim">
+            <RowFrmAnim>3000 -2 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3001 -6 -53 1 </RowFrmAnim>
+            <RowFrmAnim>3002 -5 -67 1 </RowFrmAnim>
+            <RowFrmAnim>3003 -5 -68 1 </RowFrmAnim>
+            <RowFrmAnim>3004 -6 -63 1 </RowFrmAnim>
+            <RowFrmAnim>3005 -9 -62 1 </RowFrmAnim>
+            <RowFrmAnim>3006 -9 -53 1 </RowFrmAnim>
+            <RowFrmAnim>3007 -4 -51 1 </RowFrmAnim>
+            <RowFrmAnim>3008 -4 -53 1 </RowFrmAnim>
+            <RowFrmAnim>3009 -6 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3010 -5 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3011 -8 -48 1 </RowFrmAnim>
+        </itemAnim>
+    </anims>
+</sprites>

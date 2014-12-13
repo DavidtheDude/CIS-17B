@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sprites>
+  <files>
+    <path>:/Zero/run.xml</path>
+    <path>:/Zero/dash.xml</path>
+    <path>:/Zero/slice.xml</path>
+    <path>:/Zero/sSlice.xml</path>
+  </files>
+</sprites>

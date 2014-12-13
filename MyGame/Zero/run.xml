@@ -3,7 +3,7 @@
 <!--last saved: 18/12/2011 17:34-->
 <sprites>
     <image>
-        <path>C:/Users/David/Documents/School/CIS-17B/MyGame/Zero/zeroModified.png</path>
+        <path>:/Zero/zeroModified.png</path>
     </image>
     <modules nModules="16">
         <nRow>0 1000 1 97 42 47 </nRow>
@@ -80,17 +80,17 @@
             <RowFrmAnim>3002 -8 -45 1 </RowFrmAnim>
             <RowFrmAnim>3003 -1 -47 1 </RowFrmAnim>
             <RowFrmAnim>3004 -2 -47 1 </RowFrmAnim>
-            <RowFrmAnim>3005 -7 -47 1 </RowFrmAnim>
-            <RowFrmAnim>3006 -11 -50 1 </RowFrmAnim>
-            <RowFrmAnim>3007 -15 -51 1 </RowFrmAnim>
-            <RowFrmAnim>3008 -12 -49 1 </RowFrmAnim>
-            <RowFrmAnim>3009 -12 -48 1 </RowFrmAnim>
-            <RowFrmAnim>3010 -8 -50 1 </RowFrmAnim>
-            <RowFrmAnim>3011 -6 -50 1 </RowFrmAnim>
-            <RowFrmAnim>3012 -13 -50 1 </RowFrmAnim>
-            <RowFrmAnim>3013 -20 -50 1 </RowFrmAnim>
-            <RowFrmAnim>3014 -12 -50 1 </RowFrmAnim>
-            <RowFrmAnim>3017 -9 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3005 -2 -47 1 </RowFrmAnim>
+            <RowFrmAnim>3006 -4 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3007 0 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3008 2 -48 1 </RowFrmAnim>
+            <RowFrmAnim>3009 -3 -48 1 </RowFrmAnim>
+            <RowFrmAnim>3010 -3 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3011 0 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3012 -3 -51 1 </RowFrmAnim>
+            <RowFrmAnim>3013 -5 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3014 -1 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3017 -2 -49 1 </RowFrmAnim>
         </itemAnim>
     </anims>
 </sprites>

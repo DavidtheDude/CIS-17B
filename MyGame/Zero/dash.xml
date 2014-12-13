@@ -3,7 +3,7 @@
 <!--last saved: 18/12/2011 17:34-->
 <sprites>
     <image>
-        <path>C:/Users/David/Documents/School/CIS-17B/MyGame/Zero/zeroModified.png</path>
+        <path>:/Zero/zeroModified.png</path>
     </image>
     <modules nModules="3">
         <nRow>0 1000 535 33 80 50 </nRow>
