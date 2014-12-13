@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NewsPage</class>
+ <widget class="QWidget" name="NewsPage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>768</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QListWidget" name="listWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1024</width>
+     <height>768</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>90</y>
+     <width>561</width>
+     <height>341</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Riverside City College’s Rhonda Taube, associate professor, Art History, will be speaking at 
+Xipe Projects’ open house​ on Saturday, December 6 at 4 pm in Huntington Beach.Xipe 
+Projects, a non-profit educational foundation, is home to the Peter and Roberta Markman
+Collection of Latin American masks. Since opening in November 2011, Xipe
+Projects has hosted a variety of exhibitions, cultural events, and educational symposiums.
+The museum houses approximately 4,000 works, many of which have been previously exhibited by
+museums, university and commercial galleries. The foundation promotes appreciation and understanding
+of Latin American masking and popular art through research, exhibitions and conservation. 
+On December 6, the museum will launch a redesigned space for The Maestro and the Dance!, a never-before-seen
+look at the masked dance tradition of Guatemala presented through the eyes of life-long dance/drama maestro 
+Florencio Valey of Santa Lucía Cotzumalguapa. Highlights include colorful masks, costumes, and over 
+one hundred rare texts collected by Valey over the past 70 years. Taube, who was the Riverside Community 
+College District’s 54th Distinguished Faculty Lecturer last May, recently completed work as an academic 
+consultant and assistant producer on Gods and Kings, an award-winning documentary. An expert on Guatemala
+history, especially when it comes to the role of dance, festival and other performances in Mesoamerican 
+community ceremonies, Taube will speak about popular Latin American art. The Maestro and the Dance! exhibit
+opens to the public at 3 pm; the lecture begins at 4. Seating is first-come, first-served. 
+
+For more information, email: staff@xipeprojects.com or log on to: xipeprojects.com.​</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="article1_Picture_2">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>110</y>
+     <width>431</width>
+     <height>311</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>70</y>
+     <width>571</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Taube to be Featured Speaker at Xipe Projects Open House</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>460</y>
+     <width>711</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Journalism Students Win Eight Awards at Southern California Competition</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="article1_Picture_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>480</y>
+     <width>351</width>
+     <height>291</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>490</y>
+     <width>511</width>
+     <height>261</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Viewpoints, Riverside City College’s student newspaper, saw eight journalism students
+receive awards at the Journalism Association of Community Colleges Southern California
+Conference on October 18 at Cal State Fullerton. Students competed on several different
+fronts, from previously published articles and photos to on-the-spot news, sports and photo
+coverage. Three students took home top awards led by Viewpoints photo editor Luis Solis, who
+took home two awards, including a first place award for a Viewpoints photo essay about Riverside's
+22nd annual airshow. She also finished third for a feature photo. Managing editor James Williams
+won top prize for an on-the-spot sports story. Meanwhile, Aaron Beltran won first place for a photo
+essay. Viewpoints news editor Valerie Osier won second place for a feature story about Cheri Jo
+Bates in the newspaper's October 31, 2013 edition. Online editor Steven Smith took second place for
+a video on RCC Astronomy instructor Scott Blair. News editor Josa Lamont finished second in the 
+on-the-spot feature story category, and former artist Celeste Walter won a second place award for
+a line illustration. “Viewpoints is led by a very talented group of student editors who not only
+produce high quality work for the newspaper, but also give back by mentoring the new students,” said
+Allan Lovelace, the paper’s faculty adviser.  “Every day is a joyful experience in the newsroom, to 
+be around their enthusiasm and positive attitude.”​</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Forums>
+    <Posts>
+        <Topic>PC Master Race</Topic>
+            <Reply>Yes</Reply>
+            <Reply>No</Reply>
+        <Topic>Is anybody there</Topic>
+            <Reply>Nope</Reply>
+        <Topic>What is love</Topic>
+            <Reply>Not for you</Reply>
+            <Reply>^</Reply>
+            <Reply>:o</Reply>
+    </Posts>
+  <Stickied>
+    <Topic>This Post is about the rules</Topic>
+    </Stickied>
+  <Sub-Forums />
+</Forums>

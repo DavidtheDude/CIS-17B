@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/About.png</file>
+        <file>Images/Appointments.png</file>
+        <file>Images/Bus.png</file>
+        <file>Images/Clubs.png</file>
+        <file>Images/Forums.png</file>
+        <file>Images/Gaben.png</file>
+        <file>Images/News.png</file>
+        <file>Images/Schedule.png</file>
+        <file>Images/SchoolInfo.png</file>
+        <file>Images/SplashScreen.png</file>
+        <file>Images/ArticleImage1.jpg</file>
+        <file>Images/ArticleImage2.jpg</file>
+        <file>Images/ArticleImage3.jpg</file>
+        <file>Images/A.png</file>
+        <file>Images/B.png</file>
+        <file>Images/C.png</file>
+        <file>Images/D.png</file>
+        <file>Images/E.png</file>
+        <file>Images/F.png</file>
+        <file>Images/G.png</file>
+        <file>Images/H.png</file>
+        <file>Images/I.png</file>
+        <file>Images/J.png</file>
+        <file>Images/K.png</file>
+        <file>Images/L.png</file>
+        <file>Images/M.png</file>
+        <file>Images/N.png</file>
+        <file>Images/O.png</file>
+        <file>Images/P.png</file>
+        <file>Images/Q.png</file>
+        <file>Images/R.png</file>
+        <file>Images/S.png</file>
+        <file>Images/T.png</file>
+        <file>Images/U.png</file>
+        <file>Images/V.png</file>
+        <file>Images/W.png</file>
+        <file>Images/X.png</file>
+        <file>Images/Y.png</file>
+        <file>Images/Z.png</file>
+    </qresource>
+    <qresource prefix="/news">
+        <file>newsHeader.ini</file>
+    </qresource>
+</RCC>

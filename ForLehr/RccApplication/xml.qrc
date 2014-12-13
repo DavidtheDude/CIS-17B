@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>newsArticles.xml</file>
+        <file>forum.xml</file>
+    </qresource>
+</RCC>

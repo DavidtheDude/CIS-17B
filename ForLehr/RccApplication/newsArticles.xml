@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<News>
+  <Articles>
+    <path>:/NewsArticles/article1</path>
+    <path>:/NewsArticles/article2</path>
+    <path>:/NewsArticles/article3</path>
+  </Articles>
+  <Images>
+    <path>:/Images/ArticleImage1</path>
+    <path>:/Images/ArticleImage2</path>
+    <path>:/Images/ArticleImage3</path>
+  </Images>
+  <Links>
+    <path>http://www.rcc.edu/about/campusnews/Pages/Taube-to-be-Featured-Speaker-at-Xipe-Projects-.aspx</path>
+    <path>http://www.rcc.edu/about/campusnews/Pages/Jessica-Poon-an-LA-based-animation-director-from-Hong-Kong.aspx</path>
+    <path>http://www.rcc.edu/about/campusnews/Pages/Journalism-Students-Win-Eight-Awards-at-Southern-California-Competition.aspx</path>
+  </Links>
+</News>
